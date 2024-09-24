@@ -1,0 +1,4 @@
+'Hospital filter=lfs diff=lfs merge=lfs -text
+Management' filter=lfs diff=lfs merge=lfs -text
+Management/*' filter=lfs diff=lfs merge=lfs -text
+Hospital[[:space:]]Management/* filter=lfs diff=lfs merge=lfs -text
